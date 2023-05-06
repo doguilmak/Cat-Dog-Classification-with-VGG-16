@@ -54,13 +54,13 @@
 
 <p>On below, there are informations about the notebooks created respectively.</p>
 
- 1. In this section, I builded *VGG-16* model. After that, predictions and evaluations (plot *train* - *validation loss* and *accuracy graph*) made from train and validation data. <br> Notebook: 
+ 1. In this section, I builded *VGG-16* [model_1](https://github.com/doguilmak/Cat-Dog-Classification-with-VGG-16/tree/main/model_1). After that, predictions and evaluations (plot *train* - *validation loss* and *accuracy graph*) made from train and validation data. <br> Notebook: 
 		 
 	1. [cat_dog_vgg16_1.ipynb](https://github.com/doguilmak/Cat-Dog-Classification-with-VGG-16/blob/main/cat_dog_vgg16_1.ipynb)
 	 
- 2. In this section, I build classification model with *VGG-16*. After that, predictions and evaluations (*train-validation loss and accuracy graph*, *F1 score*, *precision*, *recall*, *support*, *ROC graph* and *AUC score*) made from train, validation and test data. The results of the model on the test data are in the <a  href="https://github.com/doguilmak/Classify-Trees-in-Satellite-Imagery/blob/main/cam_model_csv_files/model_predictions.csv">model_predictions.csv</a> file. Just click the link to view. You can also review train, test and validation csv files <a  href="https://github.com/doguilmak/Classify-Trees-in-Satellite-Imagery/tree/main/cam_model_csv_files">here</a>.</p><br> Notebook: 
+ 2. In this section, I build classification [model_2](https://github.com/doguilmak/Cat-Dog-Classification-with-VGG-16/tree/main/model_2) with *VGG-16*. After that, predictions and evaluations (*train-validation loss and accuracy graph*, *F1 score*, *precision*, *recall*, *support*, *ROC graph* and *AUC score*) made from train, validation and test data. The results of the model on the test data are in the [model_predictions.csv](https://github.com/doguilmak/Cat-Dog-Classification-with-VGG-16/tree/main/model_2) file. Just click the link to view. Notebook: 
  
-	1. [cat_dog_vgg16_2](https://github.com/doguilmak/Cat-Dog-Classification-with-VGG-16/blob/main/cat_dog_vgg16_2.ipynb)
+	1. [cat_dog_vgg16_2.ipynb](https://github.com/doguilmak/Cat-Dog-Classification-with-VGG-16/blob/main/cat_dog_vgg16_2.ipynb)
 
 
 <br>
