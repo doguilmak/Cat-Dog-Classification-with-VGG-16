@@ -72,12 +72,6 @@
 
 <br>
 
-<h2>License</h2>
-
-<p>GNU General Public License v3.0</p>
-
-<br>
-
 <h2>Contact Me</h2>
 <p>If you have something to say to me please contact me:</p>
 
